@@ -6,4 +6,6 @@ email = "\nangelicajoyuy16@gmail.com"
 print (name, birthday, gender, email)
 
 dm = "Welcome to the team -Joy"
-print (dm)
+
+dm = "Welcome to the team! - Loise"
+print (dm) 
